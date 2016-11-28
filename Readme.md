@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Денис Власов](https://up.htmlacademy.ru/adaptive/9/user/18034).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
